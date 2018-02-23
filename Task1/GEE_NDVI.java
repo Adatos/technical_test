@@ -1,3 +1,5 @@
+// Code to work with Google Earth Engine
+
 // Creating the AOI and BaseMap variables
 var AOI = ee.FeatureCollection('users/hafizmagnus/AOI');
 var bm_extent = ee.FeatureCollection('users/hafizmagnus/Basemap_Extent');
